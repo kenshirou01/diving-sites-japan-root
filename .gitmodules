@@ -1,0 +1,3 @@
+[submodule "diving-sites-japan-api"]
+	path = diving-sites-japan-api
+	url = https://github.com/kenshirou01/diving-sites-japan-api.git
